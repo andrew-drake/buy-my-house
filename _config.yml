@@ -9,13 +9,13 @@ timezone: America/Halifax
 navigation:
 - text: HOME
   title: Home
-  url: /
+  url: /buy-my-house/
 - text: Attractions
   title: attractions
-  url: /attractions/
+  url: /buy-my-house/attractions/
 - text: Map
   title: map
-  url: /map/   
+  url: /buy-my-house/map/   
 - text: CONTACT
   title: Contact Me
-  url: /contact_me/
+  url: /buy-my-house/contact_me/
