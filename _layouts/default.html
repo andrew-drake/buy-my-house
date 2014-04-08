@@ -14,9 +14,12 @@
 	<script src="{{site.baseurl}}/js/jquery.flexslider.js"></script>
 
 	<script type="text/javascript" charset="utf-8">
-	  $(window).load(function() {
-	    $('.flexslider').flexslider();
-	  });
+		$(window).load(function() {
+	  		$('.flexslider').flexslider({
+	    		animation: "slide",
+	    		controlNav: "thumbnails"
+	  		});
+		});
 	</script>
 
     <!--[if lt IE 9]>
