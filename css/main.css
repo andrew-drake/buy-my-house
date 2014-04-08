@@ -52,9 +52,11 @@ body {
   color: #666;
 }
 #price {
-	font-size: 50px;
-	float:right;
-	color:#FFFC0D;
+	font-size: 70px;
+	float: right;
+	color: #FFFC0D;
+	font-weight: bolder;
+	margin-top: -85px;
 }
 a {
   color: #2879d0;
@@ -437,6 +439,9 @@ footer a:hover {
   }
   header h2 {
     font-size: 24px;
+  }
+  #price {
+	font-size:36px;
   }
   header a.button {
     background-image: none;
