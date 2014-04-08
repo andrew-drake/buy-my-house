@@ -51,7 +51,11 @@ body {
   font-weight: 400;
   color: #666;
 }
-
+#price {
+	font-size: 20px;
+	float:right;
+	color:#FFFC0D;
+}
 a {
   color: #2879d0;
 }
