@@ -63,11 +63,11 @@ body {
 }
 
 .sticky {
-	position:fixed; /* Position Fixed */
-	bottom:0px; /* 0px from Bottom */
-	left:0px; /* 0px from left */
-	right:0px; /* 0px from right */
-	z-index:99; /* To make it overlap other elements */
+	position: fixed;
+	bottom: 58px;
+	left: 1202px;
+	right: 0px;
+	z-index: 99;
 	}
 
 }
