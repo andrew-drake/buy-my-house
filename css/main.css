@@ -58,6 +58,9 @@ body {
 	font-weight: bolder;
 	margin-top: -85px;
 }
+#paragraph-content {
+	font-size:16px;
+}
 a {
   color: #2879d0;
 }
