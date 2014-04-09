@@ -61,6 +61,16 @@ body {
 #paragraph-content {
 	font-size:20px;
 }
+
+.sticky {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+	z-index: 100;
+	border-top: 0;
+}
+
 a {
   color: #2879d0;
 }
