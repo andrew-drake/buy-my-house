@@ -13,10 +13,10 @@ navigation:
   url: /
 - text: Attractions
   title: attractions
-  url: attractions/
+  url: /attractions/
 - text: Map
   title: map
   url: /map/   
 - text: CONTACT
   title: Contact Me
-  url: contact_me/
+  url: /contact_me/
