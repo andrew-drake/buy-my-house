@@ -1,7 +1,7 @@
 name: "Home For Sale"
 description: "House for sale in New Salem, Nova Scotia, Cananda"
 url: "http://localhost:4000"
-baseurl: /mcleveland.ca
+baseurl: /
 
 permalink: pretty
 layout: default
