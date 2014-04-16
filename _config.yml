@@ -1,7 +1,7 @@
 name: "Home For Sale"
 description: "House for sale in New Salem, Nova Scotia, Cananda"
 url: "http://localhost:4000"
-baseurl: /buy-my-house
+baseurl: /
 
 permalink: pretty
 layout: default
@@ -10,13 +10,13 @@ timezone: America/Halifax
 navigation:
 - text: HOME
   title: Home
-  url: /buy-my-house/
+  url: /
 - text: Attractions
   title: attractions
-  url: /buy-my-house/attractions/
+  url: attractions/
 - text: Map
   title: map
-  url: /buy-my-house/map/   
+  url: /map/   
 - text: CONTACT
   title: Contact Me
-  url: /buy-my-house/contact_me/
+  url: contact_me/
