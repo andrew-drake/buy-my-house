@@ -2,7 +2,7 @@ name: "Home For Sale"
 description: "House for sale in New Salem, Nova Scotia, Canada"
 url: "http://localhost:4000"
 baseurl: /buy-my-house
-cdn: dkwbecc2zstv9.cloudfront.net
+cdn: http://dkwbecc2zstv9.cloudfront.net
 
 permalink: pretty
 layout: default
