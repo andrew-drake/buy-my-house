@@ -52,18 +52,11 @@ body {
   color: #666;
 }
 #price {
-	font-size: 70px;
+	font-size: 65px;
 	float: right;
 	color: #FFFC0D;
 	font-weight: bolder;
 	margin-top: -85px;
-}
-
-#newprice {
-	font-size:36px;
-	float: right;
-	color: #FFFC0D;
-	font-weight: bolder;
 }
 
 #paragraph-content {
