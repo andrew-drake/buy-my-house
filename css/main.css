@@ -58,6 +58,11 @@ body {
 	font-weight: bolder;
 	margin-top: -85px;
 }
+
+#new_price {
+	font-size:14px;
+}
+
 #paragraph-content {
 	font-size:20px;
 }
